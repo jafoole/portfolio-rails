@@ -1,0 +1,45 @@
+// Place all the styles related to the contact controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.container {
+    padding: 0 200px 0 280px;
+    width: 100%
+    }
+
+.social_media {
+    margin: 20px;
+    width: 100%;
+    padding: 50px;
+    }
+
+.social_media li {
+    display: inline-block;
+    height: 24px;
+    margin: 15px;
+    text-align: left;
+    width: 24px;
+    padding: 60px;
+}
+
+.social_media a {
+		color: #00bcd4;
+    font-size: 20px;
+}
+
+
+.fa-twitter {
+color: #00bcd4;
+}
+
+.fa-github {
+color: #00bcd4;
+}
+
+.fa-linkedin {
+color: #00bcd4;
+}
+
+.fa-envelope-o {
+color: #00bcd4;
+}
